@@ -16,6 +16,7 @@
 | GET    | /schedules/realEstate/&lt;id&gt;  | Lista todos os agendamentos de um imóvel   |
 
 - Serviço de back-end responsável por gerenciar uma imobiliária utilizando TypeORM e relacionamentos.
+- Para rodar a API localmente utilizar a Url base: "http://localhost:3000/"
 
 ### **POST: /users**
 
